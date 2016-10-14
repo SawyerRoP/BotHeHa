@@ -436,7 +436,6 @@ var randomordercontentdisplay={
 
 
 </head>
-</head>
 
 
 <body>
