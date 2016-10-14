@@ -1,18 +1,14 @@
 <htm>
 <head>
-	<head>
 
-
-<link rel="shortcut icon" href="http://img.warpfootball.com/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://img.warpfootball.com/favicon.ico" type="image/x-icon">
 
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
 
-       <title>วาร์ปฟุตบอล ดูบอลออนไลน์ ดูบอลสด พรีเมียร์ลีก ดูบอลผ่านเน็ต ฟรี</title>
+       <title>ฟุตบอล ดูบอลออนไลน์ ดูบอลสด พรีเมียร์ลีก ดูบอลผ่านเน็ต ฟรี</title>
 
 <!--sort-->
 	<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.7/css/jquery.dataTables.css">
@@ -5502,12 +5498,6 @@ sbobet-tbsbet</div>
 
 <!-- start weblink -->
 
-<div class="linkweb">
-
-ลิงค์ดูผ่านเว็บทั่วไป<br /><p><a href="http://sportstream365.com/viewer?game=95541293" class="autohyperlink" target="_blank" rel="nofollow">sportstream365.com</a></p>
-
-
-</div>
 
 <!-- end linkweb -->
 
@@ -5677,13 +5667,6 @@ sbobet-tbsbet</div>
 
 <!-- start weblink -->
 
-<div class="linkweb">
-
-ลิงค์ดูผ่านเว็บทั่วไป<br /><p><a href="http://sportstream365.com/viewer?game=95541669" class="autohyperlink" target="_blank" rel="nofollow">sportstream365.com</a></p>
-
-
-</div>
-
 <!-- end linkweb -->
 
 
@@ -5768,16 +5751,6 @@ sbobet-tbsbet</div>
 
 
 
-<!-- start weblink -->
-
-<div class="linkweb">
-
-ลิงค์ดูผ่านเว็บทั่วไป<br /><p><a href="http://sportstream365.com/viewer?game=95537445" class="autohyperlink" target="_blank" rel="nofollow">sportstream365.com</a></p>
-
-
-</div>
-
-<!-- end linkweb -->
 
 
 
